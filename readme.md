@@ -31,8 +31,8 @@ Este projeto demonstra uma arquitetura simples e segura na AWS, onde um site est
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/francisco-wellington/aws-static-ec2.git
-cd aws-static-ec2
+git clone https://github.com/francisco-wellington/lab1-iac.git
+cd lab1-iac
 ```
 2. Configure as credenciais AWS (com ***aws configure*** ou variáveis de ambiente).
 3. Inicialize e aplique o Terraform:
