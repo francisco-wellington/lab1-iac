@@ -2,3 +2,4 @@
 *.tfstate.*
 
 **/.terraform/*
+/modules/ec2/devops-key.pem*
